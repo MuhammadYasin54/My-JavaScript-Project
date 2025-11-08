@@ -238,7 +238,7 @@ else {
     console.log("Sorry, you'll have to wait, or go get a snack.")
 }
 
-Question no 16
+// Question no 16
 
 var myVariable =10;
 console.log("The type of this variable",myVariable,"is",typeof myVariable,);
@@ -329,4 +329,5 @@ if (_age<18){
 }
 else {
     console.log("Old Enough");
+
 }
